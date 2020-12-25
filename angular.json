@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "core-angular"
+  "defaultProject": "core-angular",
+  "cli": {
+    "analytics": false
+  }
 }

@@ -1,0 +1,9 @@
+.container {
+  background-color: brown;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+h1 {
+  height: 50vh;
+}
